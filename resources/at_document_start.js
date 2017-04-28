@@ -41,8 +41,7 @@ function action(){
     element.setAttribute("spellcheck","true"); 
     element.setAttribute("autocomplete","on"); 
   });
-
-  try{  self.timeout_id = setTimeout(action, 500); }catch(err){ clearTimeout(self.timeout_id); }  //pause and load again when done. Only available in pages having JavaScript support.
 }
 
 try{  action();                               }catch(err){}
+try{  interval_id = setInterval(action, 250); }catch(err){ clearInterval(interval_id); }  //Only available in pages having JavaScript support.

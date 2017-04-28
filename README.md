@@ -35,6 +35,9 @@ With Enabled AutoComplete Menu, And Spell-Error Checking On Text-Input Elements 
 <pre>
 Developer's HUB / Changelog
 
+4.0.3.3
+* fix engine-loading.
+
 4.0.3.2
 + error handling
 
