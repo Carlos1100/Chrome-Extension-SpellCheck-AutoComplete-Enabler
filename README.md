@@ -32,6 +32,8 @@ With Enabled AutoComplete Menu, And Spell-Error Checking On Text-Input Elements 
     - My Web-Blog At http://icompile.eladkarako.com
     - Or The Chrome-Extension Page :)
 
+<h2>Tip: You might want to activate the following flag <code>chrome://flags/#enable-idle-time-spell-checking</code> by copying and pasting it into the address-bar, and changing the value to enabled, following with a click on the big-blue button, to restart the browser. It will make read/write/scroll faster on longer articles (only available on newer versions of Google-Chrome/Chromium).</h2>
+
 <pre>
 Developer's HUB / Changelog
 
